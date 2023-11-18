@@ -9994,7 +9994,7 @@ public:
         tabWidget_2->setCurrentIndex(0);
         comboBox_5->setCurrentIndex(0);
         tabWidget_4->setCurrentIndex(0);
-        stackedWidget_8->setCurrentIndex(1);
+        stackedWidget_8->setCurrentIndex(2);
         stackedWidget_5->setCurrentIndex(0);
         stackedWidget_2->setCurrentIndex(1);
         stackedWidget_6->setCurrentIndex(1);
